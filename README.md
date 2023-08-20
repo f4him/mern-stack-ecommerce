@@ -1,0 +1,27 @@
+# Full Stack E-commerce Project
+### Mongo, Express, React, NodeJS
+
+
+
+Full stack e-commerce project
+
+
+
+## Features
+
+- Primary admin can CRUD secondary admins and all products
+- Secondary admins (shopkeepers) can CRUD their own products 
+- ✨Authentication✨
+###### _still working on it and will add vercel after I complete_
+\
+\
+\
+\
+\
+\
+\
+\
+Before doing this I did some basic frontend projects 
+- [Demo One hosted @ Vercel](https://react-demo-one-eight.vercel.app)
+- [Demo Two hosted @ Vercel](https://react-demo-two-nine.vercel.app)
+- [Demo Three hosted @ Vercel](https://rick-and-morty-omega-jet.vercel.app/characters)
