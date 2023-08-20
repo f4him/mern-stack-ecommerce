@@ -3,7 +3,13 @@
 
 
 
-Full stack e-commerce project
+#### Full stack e-commerce project
+
+To make it work you must create a config.env file in ```backend/config``` directory and set it up like this:
+```sh
+PORT = XXXX
+DB_URI = "url here"
+```
 
 
 
