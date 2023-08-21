@@ -11,11 +11,8 @@ const connectDatabase = () => {
         useUnifiedTopology: true 
     }
     mongoose.connect(url,connectionParams)
-    .then( () => {
-        console.log('Connected to the database ')
-    })
-    .catch( (err) => {
-        console.error(`Error connecting to the database. n${err}`);
+    .then( (data) => {
+        console.log(`Connected to the database ${data.connection.host} `)
     })
 }
 
